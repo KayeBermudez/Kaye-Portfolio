@@ -42,7 +42,7 @@
         <h1>Kaye Bermudez's Portfolio</h1>
         <div class="section">
             <h2>About Me</h2>
-            <p>Hi, I’m Kaye Bermudez, a dedicated and creative individual currently pursuing an Associate Degree in Tourism Technology at AMYA Polytechnic Colleges in Davao City. With a passion for both tourism and graphic design, I have developed a unique blend of skills that allow me to excel in both creative and professional settings. As a Graphic Designer, I enjoy bringing ideas to life through visually appealing and functional designs.</p>
+            <p>Hi, I’m Kaye Bermudez, a dedicated and creative individual currently pursuing an Associate Degree in Tourism Technology at AMYA Polytechnic Colleges in Davao City. With a passion for both tourism and graphic design, I have developed a unique blend of skills that allow me to excel in both creative and professional settings.</p>
         </div>
         <div class="section">
             <h2>Skills</h2>
